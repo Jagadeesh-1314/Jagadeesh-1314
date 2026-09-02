@@ -95,16 +95,17 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-1314&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-1314&layout=compact&langs_count=8&theme=radical"
-    alt="Most Used Languages"
-  />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-1314&show_icons=true&theme=radical"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-1314&layout=compact&theme=radical"
+  alt="Top Languages"
+/>
+
 </div>
 
 ---
